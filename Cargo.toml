@@ -1,5 +1,5 @@
 [package]
-name = "andre-wronscki-functions"
+name = "andre_wronscki_functions"
 version = "0.1.0"
 edition = "2021"
 authors = ["Andre Wronscki <andrewronscki@gmail.com>"]

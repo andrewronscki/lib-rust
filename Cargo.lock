@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "andre-wronscki-functions"
+name = "andre_wronscki_functions"
 version = "0.1.0"
