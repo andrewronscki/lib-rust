@@ -2,8 +2,8 @@
 name = "functions"
 version = "0.1.0"
 edition = "2021"
-authors = ["André Wronscki <andrewronscki@gmail.com>"]
-description = "André Wronscki package functions"
+authors = ["Andre Wronscki <andrewronscki@gmail.com>"]
+description = "Andre Wronscki package functions"
 homepage = "https://andrewronscki.com"
 repository = "https://andrewronscki.com"
 documentation = "https://andrewronscki.com"
