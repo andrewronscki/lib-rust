@@ -1,0 +1,15 @@
+[package]
+name = "functions"
+version = "0.1.0"
+edition = "2021"
+authors = ["André Wronscki <andrewronscki@gmail.com>"]
+description = "André Wronscki package functions"
+homepage = "https://andrewronscki.com"
+repository = "https://andrewronscki.com"
+documentation = "https://andrewronscki.com"
+license = "MIT"
+
+keywords = ["andre", "wronscki", "functions"]
+categories = ["functions"]
+
+[dependencies]
